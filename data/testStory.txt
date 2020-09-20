@@ -1,0 +1,4 @@
+Really good story,Hunter S Thompson,2000,Column,
+Not so good story,Joe Blow,1560,Column,
+BEST STORY EVER,Hunter S Thompson,1000,Feature,
+BLEH,Some Guy,500,Feature,
